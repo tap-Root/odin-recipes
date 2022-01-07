@@ -1,0 +1,30 @@
+body {
+    background: url(https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80) no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+img {
+    height:auto;
+    width: 600px;
+}
+
+h1 {
+    background-color: bisque;
+    border-style: solid;
+    border-radius: 25px;
+    margin-right: 150px;
+    margin-left: 150px;
+   
+}
+
+ul {
+    background-color: bisque;
+    border-radius: 50px;
+    border-style: hidden;
+    margin: 20px;
+    margin-left: 175px;
+    margin-right: 175px;
+    padding: 10px;
+   
+}
